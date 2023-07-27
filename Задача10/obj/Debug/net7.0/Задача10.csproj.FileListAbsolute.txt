@@ -1,0 +1,15 @@
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\bin\Debug\net7.0\Задача10.exe
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\bin\Debug\net7.0\Задача10.deps.json
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\bin\Debug\net7.0\Задача10.runtimeconfig.json
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\bin\Debug\net7.0\Задача10.dll
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\bin\Debug\net7.0\Задача10.pdb
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.csproj.AssemblyReference.cache
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.AssemblyInfoInputs.cache
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.AssemblyInfo.cs
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.csproj.CoreCompileInputs.cache
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.dll
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\obj\Debug\net7.0\refint\Задача10.dll
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.pdb
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.genruntimeconfig.cache
+C:\Users\akordel\Desktop\я\Курсы\Домашка по курсам\Семинар2ДЗ\Задача10\obj\Debug\net7.0\ref\Задача10.dll
